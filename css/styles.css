@@ -1,0 +1,34 @@
+* {
+  color: white;
+  background-color: black;
+}
+
+.mainBody {
+  border: 1px solid white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.cityBody {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+
+.detailBody {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+
+.mainContainer {
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 10px;
+}
